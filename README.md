@@ -157,36 +157,6 @@ The Power BI dashboard includes:
 * Target high-value customers using premium discount campaigns.
 * Promote express shipping for higher-value purchases.
 * Improve customer retention with loyalty programs.
-
----
-
-## 📸 Dashboard Preview
-
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-images/revenue_analysis.png
-images/customer_segmentation.png
-```
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* SQL Query Writing
-* MySQL Database Management
-* Business Intelligence
-* Dashboard Design
-* Data Storytelling
-* Business Insight Generation
-
 ---
 
 ## 🔮 Future Improvements
